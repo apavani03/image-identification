@@ -1,0 +1,74 @@
+body {
+    font-family: 'Lobster Two', cursive;
+    background:linear-gradient(to right top, #ebe833 0%, #eb3d80 20%, #d561ec 40%); 
+} 
+.header_div{
+    background: rgb(253, 252, 252);
+    color:rgb(19, 18, 18) ;
+}
+.header_div img{
+    width: 100px;
+}
+
+.header_div h2{
+    font-size: 40px;
+}
+
+.main_div{
+    background:rgb(230, 117, 173);
+    padding: 10px;
+    margin-top: 15px;
+    border : 2px solid white;
+}
+
+
+.main_div label{
+    background:white ;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 2px;
+    box-shadow: 5px 5px 18px rgb(241, 111, 133);
+    
+}
+
+.main_div button{
+font-size: 20px;
+width: 310px;
+box-shadow:5px 5px 16px rgb(241, 111, 133) ;
+border: 2px dashed pink ;
+
+}
+
+#camera{
+    border: 3px dotted skyblue;
+    width: 310px;
+    height: 310px;
+    box-shadow: 5px 5px 20px rgb(14, 204, 204);
+}
+
+#Snapshot{
+    border: 3px dotted rgb(21, 236, 172);
+    width: 310px;
+    height: 310px;
+    box-shadow: 5px 5px 20px rgb(98, 207, 226);
+}
+
+.footer_div{
+    margin-bottom: 40px;
+}
+
+.footer_div h4{
+    background: aliceblue;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 5px 5px 50px rgb(6, 238, 199);
+}
+
+
+.footer_div img{
+    width: 55px;
+}
+
+
+
+
