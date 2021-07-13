@@ -69,6 +69,22 @@ border: 2px dashed pink ;
     width: 55px;
 }
 
+.footer_div{
+    margin-bottom: 40px;
+}
+
+.footer_div h4{
+    background: aliceblue;
+    border-radius: 20px;
+    padding: 5px;
+    box-shadow: 5px 5px 50px rgb(6, 238, 199);
+}
+
+
+.footer_div img{
+    width: 55px;
+}
+
 
 
 
